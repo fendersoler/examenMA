@@ -1,0 +1,6 @@
+•	Llamaremos a esta historia de usuario suma: HU1
+•	Descripción de la funcionalidad: queremos que se sumen dos o más numero naturales
+•	Datos a utilizar: números naturales
+•	Valores frontera: de 0 a infinito
+•	Pruebas: se utilizara metodología TDD
+•	Criterio de aceptación: al introducir varios números naturales en el algoritmo el valor esperado a la salida es la suma de todos ellos.

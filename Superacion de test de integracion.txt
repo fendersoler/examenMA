@@ -1,0 +1,1 @@
+Confirmamos que se han superado todos los test de integracion y que la calculadora funciona correctamente

@@ -1,0 +1,6 @@
+•	Llamaremos a esta historia de usuario pruebas: HU5
+•	Descripción de la funcionalidad: una vez que todas las historias de usuario están finalizadas y aceptadas se procederá a crear la prueba integración.
+•	Datos a utilizar: historias de usuario de la HU1 a la HU4
+•	Valores frontera: números naturales de 0 a infinito
+•	Pruebas: pruebas de regresión 
+•	Criterio de aceptación: todas las pruebas se integran correctamente sin perder sus funcionalidades.

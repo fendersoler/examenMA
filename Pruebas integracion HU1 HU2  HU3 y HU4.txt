@@ -1,0 +1,1 @@
+Creamos el test de integracion con nuestro framework para la HU1+HU2+HU3 y HU4, usaremos un test de regresion

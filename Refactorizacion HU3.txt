@@ -1,0 +1,1 @@
+Refactorización del código del algoritmo de la resta

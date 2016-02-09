@@ -1,0 +1,1 @@
+Implementamos el algoritmo de la resta y generamos el mensaje de error en caso de no poder restarse los numeros, bien por no ser naturales o bien porque el resultado de la resta no es un numero natural

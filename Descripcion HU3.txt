@@ -1,0 +1,6 @@
+•	Llamaremos a esta historia de usuario resta: HU3
+•	Descripción de la funcionalidad: queremos que se resten dos o más números naturales y que en caso de que o bien uno o más de uno de ellos no sea natural o bien el resultado de la resta no sea un número natural el usuario reciba un mensaje de error.
+•	Datos a utilizar: números naturales
+•	Valores frontera: de 0 a infinito
+•	Pruebas: se utilizara metodología TDD
+•	Criterio de aceptación: al introducir varios números naturales en el algoritmo el valor esperado a la salida es la resta de todos ellos. En caso de no introducir números naturales o el resultado de la resta no ser un numero natural se creara un mensaje de error explicando porque del ha producido el error.
